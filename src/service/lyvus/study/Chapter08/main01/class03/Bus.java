@@ -1,0 +1,8 @@
+package service.lyvus.study.Chapter08.main01.class03;
+
+public class Bus implements Vehicle {
+	@Override
+	public void run() {
+		System.out.println("버스가 달립니다.");
+	}
+}

@@ -1,5 +1,0 @@
-package classpack;
-
-class A {
-
-}
