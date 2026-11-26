@@ -8,6 +8,6 @@ public class Car {
 	Engine engine = new Engine();
 	SnowTire tire1 = new SnowTire();
 	BigWidthTire tire2 = new BigWidthTire();
-	com.hankook.Tire tire3 = new com.hankook.Tire();
-	com.kumho.Tire tire4 = new com.kumho.Tire();
+	service.lyvus.study.Chapter06.com.hankook.Tire tire3 = new service.lyvus.study.Chapter06.com.hankook.Tire();
+	service.lyvus.study.Chapter06.com.kumho.Tire tire4 = new service.lyvus.study.Chapter06.com.kumho.Tire();
 }
